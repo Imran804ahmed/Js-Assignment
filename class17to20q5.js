@@ -1,0 +1,11 @@
+const arr = ['apple', 'banana', 'mango', 'orange', 'strawberry'];
+console.log("Element at index 0 is apple");
+console.log(arr.indexOf('apple'));
+console.log("Element at index 1 is banana");
+console.log(arr.indexOf('banana' ));
+console.log("Element at index 2 is mango");
+console.log(arr.indexOf('mango'));
+console.log("Element at index 3 is orange");
+console.log(arr.indexOf('orange'));
+console.log("Element at index 4 is strawbery ");
+console.log(arr.indexOf('strawberry'));

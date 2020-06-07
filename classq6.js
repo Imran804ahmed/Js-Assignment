@@ -1,0 +1,1 @@
+alert ("Congratulation you qualify for the semi final");

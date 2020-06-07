@@ -1,0 +1,3 @@
+document.write("  Question no#01: <br> <br>")
+ var a = 10;
+ document.write("Result <br><br> The Value of a is = "+ a +"<br> <br> . . . . . . . . . . . . . . . . . . <br> <br> The Value of ++a is = "+ ++a + "<br> Now the value of a is = "+ a  + "<br><br> The value of a++ is = " + a++ + "<br> Now the value of a is = " + a + " <br><br> The value of --a is =" + --a + "<br> Now the value of a is = "+ a + " <br><br> The value of a-- is =" + a-- + "<br> Now the value of a is = "+ a)

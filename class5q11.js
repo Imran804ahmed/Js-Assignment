@@ -1,0 +1,11 @@
+document.write("<h1>The Age Calculator </h1> <br>");
+var current_year ,birthyear, age;
+current_year=2020;
+document.write("<br>The Current Year Is =");
+document.write(current_year+"");
+birthyear=1999;
+document.write("<br>The Birth Year Is=");
+document.write(birthyear+"");
+age=current_year-birthyear;
+document.write(" <br>The Current age Is =");
+document.write(age+"");

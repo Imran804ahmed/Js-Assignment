@@ -1,0 +1,14 @@
+var days_of_week = new Array(7);
+days_of_week[0] = "Sunday";
+days_of_week[1] = "Monday";
+days_of_week[2] = "Tuesday";
+days_of_week[3] = "Wednesday";
+days_of_week[4] = "Thursday";
+days_of_week[5] = "Friday";
+days_of_week[6] = "Saturday";
+var x = 2;
+var y = 3;
+var z = 4;
+alert(days_of_week[x]);
+alert(days_of_week[y]);
+alert(days_of_week[z]);
